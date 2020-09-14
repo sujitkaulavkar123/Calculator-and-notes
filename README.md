@@ -14,8 +14,8 @@ Info: This is a test app to create Calculator and Notes features.
 4. For Android run, react-native run-android
 
 ## Sample iOS Video 
-https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/yara_Sujit_K_iOS.gif
+![Output sample](https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/yara_Sujit_K_iOS.gif)
 
 
 ## Sample Android Video 
-https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/Yara_Sujit_K_Android.gif
+![Output sample](https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/Yara_Sujit_K_Android.gif)
