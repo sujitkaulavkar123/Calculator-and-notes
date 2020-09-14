@@ -18,4 +18,4 @@ https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/yara_Sujit
 
 
 ## Sample Android Video 
-https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/yara_Sujit_K_Android.gif
+https://github.com/sujitkaulavkar123/Calculator-and-notes/blob/master/Yara_Sujit_K_Android.gif
